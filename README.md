@@ -7,4 +7,8 @@ learning git
  <br> 
 changes = commit
 git = 1 add then 2 commit !
+<br>
+configuring git = username useremail (git config --global user.name "")
+<br>
+
 
